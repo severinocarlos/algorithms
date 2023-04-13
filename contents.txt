@@ -1,0 +1,39 @@
+# Any line followed by a '#' character is ignored
+# Section headings must be in square brackets
+# Subsections within a section should follow the format:
+#   [filename within code directory][tab character \t][subsection title]
+
+[data-structures]
+data-structures\segment_tree.cpp	Segment Tree
+data-structures\segment_tree_lazy.cpp	Segment Tree Lazy
+data-structures\dsu.cpp	DSU
+
+[dynamic-programming]
+dynamic-programming\kadane.cpp	Kadane
+dynamic-programming\lis.cpp	Longest Increasing Subsequence
+dynamic-programming\prefix_2d.cpp	Prefix 2D
+
+[geometry]
+geometry\PT.cpp	PT
+
+[graph]
+graph\bfs.cpp	BFS
+graph\bicolorable.cpp	Bicolorable
+graph\dfs.cpp	DFS
+graph\dijkstra.cpp	Dijkstra
+graph\dijkstra_with_path.cpp	Dijkstra With Path
+graph\dsu.cpp	DSU
+graph\floyd.cpp	Floyd
+graph\kruskal.cpp	Kruscal
+graphz\toposort.cpp	Toposort
+
+[number-theory]
+number-theory\divisors.cpp	Divisors
+number-theory\fexp.cpp	F-exp
+number-theory\num_div.cpp	Num Div
+number-theory\sieve.cpp	Sieve
+number-theory\sum_div.cpp	Sum Div
+
+[strings]
+strings\rabin_karp.cpp	Rabin Karp
+strings\zfunction.cpp	Z-Function
